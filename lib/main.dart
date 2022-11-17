@@ -1,4 +1,5 @@
-import 'package:nailasflutter/form.dart';
+
+import 'package:nailasflutter/page/form.dart';
 import 'package:flutter/material.dart';
 
 void main() {
